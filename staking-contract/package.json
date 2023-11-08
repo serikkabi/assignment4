@@ -1,0 +1,6 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "solc": "^0.8.22"
+  }
+}
